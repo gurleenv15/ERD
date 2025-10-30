@@ -1,0 +1,30 @@
+// gurleen_virk.erd
+// Created: 2025-10-30
+// Skeleton bigER file for Gurleen Virk. Replace placeholders with real
+// entities, attributes, relationships and business rules when ready.
+
+erdiagram GurleenVirk_Model
+
+notation=crowsfoot
+
+// --------------------------
+// Entities (placeholders)
+// --------------------------
+// Example:
+// entity Customer {
+//     cus_id: INTEGER key
+//     cus_fname: VARCHAR(100)
+//     cus_lname: VARCHAR(100)
+// }
+
+// --------------------------
+// Relationships (placeholders)
+// --------------------------
+// Example:
+// relationship Purchases {
+//     Customer[1 | "buyer"] -> Invoice[0..N | "invoices"]
+// }
+
+// Replace the examples above with the Team 7 entities and relationships.
+// When you're ready you can paste the business rules or upload the PDF
+// and I'll populate this file following bigER syntax and validate it.
